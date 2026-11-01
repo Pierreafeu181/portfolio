@@ -52,8 +52,8 @@ window.CONTENT = {
     {
       school: "ESSEC",
       url: "https://www.essec.edu/fr/",
-      degree: "Programme Grande École · Master in Management",
-      detail: "#4 Business School en Europe et #7 MiM dans le monde (Financial Times 2025)",
+      degree: "Programme Grande École",
+      detail: "Master in Management : Chaire Leading Scale, Track Entrepreneuriat.",
       place: "Paris",
       dates: "09/2026 – 08/2028",
     },
