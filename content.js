@@ -3,7 +3,7 @@
 window.CONTENT = {
   name: "Baptiste Puiferrat",
   email: "Baptiste.puiferrat@essec.edu",
-  linkedin: "https://www.linkedin.com/", // TODO : colle ici ton URL LinkedIn complète
+  linkedin: "https://www.linkedin.com/in/baptiste-puiferrat",
   github: "https://github.com/Pierreafeu181",
   cvPdf: "assets/cv-baptiste-puiferrat.pdf",
   avatar: "assets/avatar.png", // remplace par assets/avatar.gif quand l'animation sera prête
